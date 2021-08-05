@@ -70,7 +70,7 @@ function App() {
                         
                         <p>
                           This project was made for the Migracode Barcelona organitation
-                          to help students study React, NodeJs ad SQL databases
+                          to help students study React, NodeJs ad SQL databases by Angelo Zarate
                         </p>
                     </div>
 
