@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project was created for [Migracode Barcelona](https://migracode.openculturalcenter.org/)
 to assist the students in the use of `React, NodeJS and it includes PostgreSQL database`
 
-App awaiable [here](https://gymup.netlify.app/)
+App avaiable [here](https://gymup.netlify.app/)
 
 This repository contains the frontend part, for the complete version visit [this repository]()
 
