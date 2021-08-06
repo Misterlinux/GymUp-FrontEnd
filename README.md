@@ -1,5 +1,5 @@
 ![Cattura](https://user-images.githubusercontent.com/43761354/128540195-8ecde4dc-86c5-4bb9-9bda-917a8aed041c.PNG)
-# Getting Started with Create React App
+# GymUp App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
