@@ -12,7 +12,10 @@ This repository contains the frontend part, for the complete version visit [this
 ## Included functions:
 
 -`Sign in`: The possibility to register and log to the database using an username email and password
+
 -`Log in`: The possibility to change the user property to LoggedIn in the database if not already
+
 -`Log Out`: Allows, using just the username or email, to change the user property to LoggedOut
+
 -`Delete account`: Deletes account from the Database using email/username and password
 
