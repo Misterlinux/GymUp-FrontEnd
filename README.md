@@ -2,6 +2,9 @@
 # GymUp App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for the [Migracode Barcelona organitation](https://migracode.openculturalcenter.org/)
+to assist the students in the use of `React, NodeJS and it includes PostgreSQL database`
+
 
 ## Available Scripts
 
